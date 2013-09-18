@@ -1,0 +1,5 @@
+C:\Users\lizbeth\Documents\SharpDevelop Projects\prac2\bin\Debug\prac2.exe
+C:\Users\lizbeth\Documents\SharpDevelop Projects\prac2\bin\Debug\prac2.pdb
+C:\Users\lizbeth\Documents\SharpDevelop Projects\prac2\obj\x86\Debug\prac2.csprojResolveAssemblyReference.cache
+C:\Users\lizbeth\Documents\SharpDevelop Projects\prac2\obj\x86\Debug\prac2.exe
+C:\Users\lizbeth\Documents\SharpDevelop Projects\prac2\obj\x86\Debug\prac2.pdb
